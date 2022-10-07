@@ -40,3 +40,5 @@ My name is Regine. Im a Cameroonian and live in Berlin.
    3 serve and eat hot
 > A terminal is an electronic communication hardware device that handles the input and display of data
 
+My name is Elena and I am a student from France.
+ I really like Coding and Japanes >:D
