@@ -1,3 +1,4 @@
+
 Kai Kuehl
 - born in Berlin on th 14.05.1992
 - 1997 moved to Moelln (by Hamburg)
@@ -26,3 +27,16 @@ The Slava, also called Krsna Slava and Krsno ime,
  regard the Slava as their most significant feast days.
  The tradition of the slava is also preserved among the Serbian diaspora.
  The Slava is also recorded among other ethnic groups.
+
+#Bio
+My name is Regine. Im a Cameroonian and live in Berlin.
+
+#Spaghetti Bolognaise recipe
+1 Spaghetti
+2 Tomatoes
+3 Ground meat
+   1 Boil spaghetti and in another pot, mix tomatoes with groung meat and cook for 5 mins
+   2 mix the cooked spaghetti with the cooked tomato sauce and cook for 3 mins
+   3 serve and eat hot
+> A terminal is an electronic communication hardware device that handles the input and display of data
+
